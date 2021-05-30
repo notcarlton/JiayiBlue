@@ -1,5 +1,5 @@
-# Project Fusion
-Project Fusion is an internal/external utility mod for Minecraft: Bedrock Edition.
+# Jiayi Blue
+Internal/External utility mod for Minecraft: Bedrock Edition.
 
 Memory and ClickGUI is handled externally and in-game rendering (like ESP) is handled internally.
 
